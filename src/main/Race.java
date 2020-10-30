@@ -9,5 +9,6 @@ public class Race {
         rabbit.getRabbit().start();
         Tortoise tortoise = new Tortoise();
         tortoise.getTortoise().start();
+
     }
 }
